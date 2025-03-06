@@ -1,0 +1,7 @@
+numpy>=1.20.0
+torch>=1.10.0
+moviepy>=1.0.3
+faster-whisper>=0.6.0
+spleeter>=2.3.0
+tensorflow<2.11  # Required for Spleeter compatibility
+ffmpeg-python>=0.2.0
